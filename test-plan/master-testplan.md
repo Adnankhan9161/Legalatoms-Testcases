@@ -1,7 +1,7 @@
 # Master Test Plan
 
 ## 🎯 Objective
-Ensure end-to-end testing coverage for professionals.
+Ensure end-to-end testing coverage for clients and professionals.
 
 ## 📌 Scope
 - Functional testing
