@@ -1,7 +1,7 @@
 # Master Test Plan
 
 ## 🎯 Objective
-Ensure end-to-end testing coverage for all modules including Login, Checkout, and Reports.
+Ensure end-to-end testing coverage for professionals.
 
 ## 📌 Scope
 - Functional testing
