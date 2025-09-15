@@ -23,6 +23,8 @@ Ensure end-to-end testing coverage for clients and professionals.
 - /test-cases/BreakGlass.xlsx
 - /test-cases/Calender testcases.xlsx
 - /test-cases/Case flow tab.xlsx
+- /test-cases/Clerk & Judge testcases for okanogan.xlsx
+- /test-cases/.xlsx
 - /test-cases/.xlsx
 
 ## 👥 Responsibilities
