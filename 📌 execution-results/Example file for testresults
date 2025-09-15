@@ -1,0 +1,15 @@
+Instructions for Uploading Test Results
+
+Upload/add your test results in the Execution-results folder.
+
+Inside the Excel sheet:
+
+Add the module name at the top of the sheet.
+
+Add test results (Pass/Fail) for each test case.
+
+Rename the Excel sheet in the following format:
+[TestEnvironmentName]-[YourName]-[Date]
+
+Example:
+Alpha-Adnan-4Sep,2025
