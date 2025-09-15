@@ -10,9 +10,9 @@ Ensure end-to-end testing coverage for clients and professionals.
 - Edge case validation
 
 ## 🧪 Execution Rounds
-- **Round 1:** Smoke & critical path tests
-- **Round 2:** Full regression after fixes
-- **Round 3:** Pre-release sanity checks
+- Smoke & critical path tests
+- Full regression after fixes
+- Pre-release sanity checks
 
 ## 📂 Test Case Sources
 - /test-cases/(Nabeel)Lawyer, intern and nonprofit.xlsx
