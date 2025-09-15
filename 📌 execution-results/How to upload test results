@@ -1,15 +1,19 @@
-Instructions for Uploading Test Results
+Pre-requisite
 
-Upload/add your test results in the Execution-results folder.
+First, pull the project on your local system.
 
-Inside the Excel sheet:
+Execution Results Process
 
-Add the module name at the top of the sheet.
+Select the module you want to run test cases for.
 
-Add test results (Pass/Fail) for each test case.
+Example: Create Client module.
 
-Rename the Excel sheet in the following format:
-[TestEnvironmentName]-[YourName]-[Date]
+Suppose the Create Client Excel sheet has 300 test cases, but you only executed 100.
 
-Example:
-Alpha-Adnan-4Sep,2025
+Copy the executed 100 test cases and paste them into a new Excel sheet.
+
+At the top of the new Excel sheet, add the module name (e.g Create Client module)
+
+Rename the file in the following format:
+Alpha-Adnan-4Sep, 2025
+
